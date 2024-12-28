@@ -6,7 +6,7 @@ Sistem sederhana untuk mengukur kecerdasan melalui beberapa jenis tes:
 - Tes Memori
 - Tes Pengenalan Pola
 
-## Cara Menjalankan
+## Cara Menjalankannya
 
 1. Pastikan Python sudah terinstal di komputer Anda.
 2. Jalankan file `main.py` untuk memulai tes.

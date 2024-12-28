@@ -1,15 +1,16 @@
-# test_kecerdasan
+# Tes Kecerdasan
 
-Struktur test_kecerdasan
+Sistem sederhana untuk mengukur kecerdasan melalui beberapa jenis tes:
+- Tes IQ
+- Tes Logika
+- Tes Memori
+- Tes Pengenalan Pola
 
-test_kecerdasan/ 
-├── main.py 
-├── iq_test.py 
-├── logic_test.py 
-├── memory_test.py 
-├── pattern_recognition.py 
-├── utils/ 
-│   ├── scoring.py 
-│   ├── data_loader.py 
-│   └── visualization.py 
-└── README.md
+## Cara Menjalankan
+
+1. Pastikan Python sudah terinstal di komputer Anda.
+2. Jalankan file `main.py` untuk memulai tes.
+3. Pilih tes yang diinginkan dan ikuti instruksinya.
+
+Selamat mencoba!
+
